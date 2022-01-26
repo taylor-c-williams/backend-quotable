@@ -7,9 +7,3 @@ CREATE TABLE profiles (
   name TEXT NOT NULL,
   quote TEXT NOT NULL
 );
-
-INSERT INTO profiles (name, quote)
-VALUES (
-  'Taylor',
-  'Sup Nerds'
-);
